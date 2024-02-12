@@ -1,0 +1,30 @@
+body {
+  font-family: "Comfortaa", cursive;
+}
+
+.bg-e3e3 {
+  background-color: #e3e3e3;
+  color: #00291c;
+}
+
+.border-bottom-337B68 {
+  border-bottom: 3px solid #337b68;
+}
+
+.color-025645 {
+  color: #025645;
+}
+
+.font-bold-text-2xl-mb-2 {
+  font-weight: bold; /* Equivalent to 'font-bold' in Tailwind */
+  font-size: 1.5rem; /* 'text-2xl' in Tailwind is usually 1.5rem, but check your Tailwind config for exact size */
+  margin-bottom: 0.5rem; /* 'mb-2' in Tailwind is typically 0.5rem, but this can vary based on your config */
+}
+/* styles.css */
+.custom-div-style {
+  background-color: #e3e3e3; /* Light gray background */
+  color: #00291c; /* Dark green text */
+  padding: 20px; /* Padding around the content */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+}

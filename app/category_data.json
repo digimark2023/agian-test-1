@@ -1,0 +1,171 @@
+[
+  {
+    "category": "1. Demographic-Based Audience",
+    "subcategories": [
+      {
+        "name": "Young Adults",
+        "items": [
+          "College Students (educational tools, affordable fashion, technology)",
+          "Young Professionals (career development services, modern home goods)"
+        ]
+      },
+      {
+        "name": "Families",
+        "items": [
+          "New Parents (baby products, parenting advice services)",
+          "Large Families (bulk buying discounts, family-sized products)"
+        ]
+      },
+      {
+        "name": "Senior Citizens",
+        "items": [
+          "Health and Wellness Products",
+          "Leisure and Travel Services for Retirees"
+        ]
+      },
+      {
+        "name": "Children",
+        "items": [
+          "Educational Toys and Games",
+          "Children’s Apparel and Accessories"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "2. Location-Based Audience",
+    "subcategories": [
+      {
+        "name": "Urban Residents",
+        "items": [
+          "City-specific Delivery Services",
+          "Urban Lifestyle Products (compact furniture, smart gadgets)"
+        ]
+      },
+      {
+        "name": "Rural Communities",
+        "items": [
+          "Agricultural Tools and Services",
+          "Rural Connectivity Solutions"
+        ]
+      },
+      {
+        "name": "Regional Markets",
+        "items": [
+          "Products tailored to local culture and needs",
+          "Regional Handicrafts and Art"
+        ]
+      },
+      {
+        "name": "International Markets",
+        "items": [
+          "Export-oriented Goods (textiles, handicrafts)",
+          "Cross-cultural Consulting Services"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "3. Lifestyle or Interest-Based Audience",
+    "subcategories": [
+      {
+        "name": "Fitness Enthusiasts",
+        "items": ["Home Gym Equipment", "Health and Nutrition Apps"]
+      },
+      {
+        "name": "Tech-Savvy Consumers",
+        "items": [
+          "Latest Electronics and Gadgets",
+          "Tech Support and Consulting Services"
+        ]
+      },
+      {
+        "name": "Environmentally Conscious Consumers",
+        "items": [
+          "Eco-friendly Products (reusable items, sustainable materials)",
+          "Green Energy Solutions"
+        ]
+      },
+      {
+        "name": "Hobbyists",
+        "items": [
+          "DIY Crafting Kits",
+          "Specialized Equipment for Hobbies (photography, gardening)"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "4. Industry-Specific Audience",
+    "subcategories": [
+      {
+        "name": "Healthcare Sector",
+        "items": ["Medical Supplies and Equipment", "Health IT Solutions"]
+      },
+      {
+        "name": "Educational Institutions",
+        "items": ["E-learning Platforms", "School and College Supplies"]
+      },
+      {
+        "name": "Corporate Sector",
+        "items": ["B2B SaaS Products", "Corporate Training and Workshops"]
+      },
+      {
+        "name": "Hospitality Industry",
+        "items": [
+          "Catering and Event Planning Services",
+          "Hotel and Restaurant Supplies"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "5. Income or Economic Status-Based Audience",
+    "subcategories": [
+      {
+        "name": "Luxury Market2",
+        "items": [
+          "High-end Fashion and Jewelry",
+          "Luxury Travel and Concierge Services"
+        ]
+      },
+      {
+        "name": "Budget-Conscious Consumers",
+        "items": [
+          "Affordable Consumer Goods",
+          "Discount and Bulk Purchase Stores"
+        ]
+      },
+      {
+        "name": "Middle-Income Group",
+        "items": ["Quality Home Appliances", "Family Cars and Vehicles"]
+      }
+    ]
+  },
+  {
+    "category": "6. Special Needs or Niche Audience",
+    "subcategories": [
+      {
+        "name": "People with Disabilities",
+        "items": [
+          "Accessible Technology and Tools",
+          "Specialized Transportation Services"
+        ]
+      },
+      {
+        "name": "Cultural or Ethnic Groups",
+        "items": [
+          "Ethnic Foods and Beverages",
+          "Cultural Apparel and Accessories"
+        ]
+      },
+      {
+        "name": "Special Interest Groups",
+        "items": [
+          "Pet Owners (pet care products, services)",
+          "Vegan and Plant-based Consumers (vegan food products, lifestyle items)"
+        ]
+      }
+    ]
+  }
+]

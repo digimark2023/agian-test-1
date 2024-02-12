@@ -1,0 +1,154 @@
+{
+  "categories": [
+    {
+      "main": "Technology and Innovation",
+      "Competitive": "Mobile Apps",
+      "Niche": "AR/VR Software Development"
+    },
+    {
+      "main": "E-Commerce",
+      "Competitive": "Consumer Goods and Fashion",
+      "Niche": "Eco-friendly and Handcrafted Products"
+    },
+    {
+      "main": "Health and Wellness",
+      "Competitive": "Fitness Centers and Yoga Studios",
+      "Niche": "Specialized Wellness Programs"
+    },
+    {
+      "main": "Food and Beverage",
+      "Competitive": "Fast-Casual Dining",
+      "Niche": "Specialized Dietary Options"
+    },
+    {
+      "main": "Education and Training",
+      "Competitive": "Online Tutoring",
+      "Niche": "Emerging Skills Courses"
+    },
+    {
+      "main": "Sustainability and Environment",
+      "Competitive": "Recycling and Waste Management",
+      "Niche": "Sustainable Business Consulting"
+    },
+    {
+      "main": "Entertainment and Media",
+      "Competitive": "Video Production",
+      "Niche": "Special Interest Podcasts/Blogs"
+    },
+    {
+      "main": "Real Estate and Housing",
+      "Competitive": "Residential Real Estate",
+      "Niche": "Sustainable Housing"
+    },
+    {
+      "main": "Professional Services",
+      "Competitive": "Legal and Accounting Services",
+      "Niche": "Industry-Specific Consulting"
+    },
+    {
+      "main": "Retail",
+      "Competitive": "General Merchandise Stores",
+      "Niche": "Specialty Lifestyle Stores"
+    },
+    {
+      "main": "Digital Marketing and SEO",
+      "Competitive": "Social Media Management",
+      "Niche": "SEO for Specific Industries (e.g., Healthcare, Legal)"
+    },
+    {
+      "main": "Home Improvement and Construction",
+      "Competitive": "General Contracting Services",
+      "Niche": "Eco-Friendly Building Materials"
+    },
+    {
+      "main": "Beauty and Personal Care",
+      "Competitive": "Beauty Salons and Spas",
+      "Niche": "Organic and Natural Beauty Products"
+    },
+    {
+      "main": "Automotive and Transportation",
+      "Competitive": "Car Dealerships",
+      "Niche": "Electric Vehicle (EV) Charging Solutions"
+    },
+    {
+      "main": "Arts and Crafts",
+      "Competitive": "Art Supplies Retail",
+      "Niche": "Custom Artwork and Commissioned Pieces"
+    },
+    {
+      "main": "Fitness and Sports",
+      "Competitive": "Sports Equipment Retail",
+      "Niche": "Personalized Fitness Training Programs"
+    },
+    {
+      "main": "Pet Care and Products",
+      "Competitive": "Pet Food and Supplies",
+      "Niche": "Organic and Special Diet Pet Foods"
+    },
+    {
+      "main": "Travel and Tourism",
+      "Competitive": "Travel Agencies",
+      "Niche": "Eco-Tourism and Adventure Travel"
+    },
+    {
+      "main": "Financial Services",
+      "Competitive": "Personal and Business Banking",
+      "Niche": "Financial Planning for Specific Life Stages (e.g., Retirement, College)"
+    },
+    {
+      "main": "Gaming and Entertainment",
+      "Competitive": "Video Game Retail",
+      "Niche": "Indie Game Development"
+    },
+    {
+      "main": "Healthcare Services",
+      "Competitive": "General Clinics",
+      "Niche": "Telemedicine for Specialized Care (e.g., Mental Health, Chronic Diseases)"
+    },
+    {
+      "main": "Agriculture and Farming",
+      "Competitive": "Farm Equipment and Supplies",
+      "Niche": "Organic and Urban Farming Solutions"
+    },
+    {
+      "main": "Hospitality",
+      "Competitive": "Hotels and Accommodations",
+      "Niche": "Boutique Hotels with Unique Themes"
+    },
+    {
+      "main": "Education Technology (EdTech)",
+      "Competitive": "E-Learning Platforms",
+      "Niche": "Educational Tools for Special Needs"
+    },
+    {
+      "main": "Renewable Energy",
+      "Competitive": "Solar Panel Installation",
+      "Niche": "Custom Renewable Energy Solutions for Businesses"
+    },
+    {
+      "main": "Fashion and Apparel",
+      "Competitive": "Clothing Retail",
+      "Niche": "Sustainable and Ethical Fashion Brands"
+    },
+    {
+      "main": "Event Planning and Services",
+      "Competitive": "Wedding Planning",
+      "Niche": "Corporate Event Planning"
+    },
+    {
+      "main": "Music and Audio",
+      "Competitive": "Musical Instrument Retail",
+      "Niche": "Custom Audio Production Services"
+    },
+    {
+      "main": "Publishing and Media",
+      "Competitive": "Online News and Media Platforms",
+      "Niche": "Niche Magazine Publications"
+    },
+    {
+      "main": "Craft Beverages",
+      "Competitive": "Craft Beer Brewing",
+      "Niche": "Artisanal Non-Alcoholic Beverages"
+    }
+  ]
+}

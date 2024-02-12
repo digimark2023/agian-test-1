@@ -1,0 +1,49 @@
+[
+  {
+    "Country": "India",
+    "StateCity": [
+      {
+        "state": "Andhrapradesh",
+        "cities": ["Guntur", "Vizag."]
+      },
+      {
+        "state": "Telanagana",
+        "cities": ["Hyderabad", "Manccherail"]
+      }
+    ]
+  },
+  {
+    "Country": "US",
+    "StateCity": [
+      {
+        "state": "Alabama",
+        "cities": ["Anniston", "Atmore"]
+      },
+      {
+        "state": "Arizona",
+        "cities": ["Ajo", "Douglas"]
+      },
+      {
+        "state": "California",
+        "cities": ["Chico", "Corona"]
+      }
+    ]
+  },
+  {
+    "Country": "UK",
+    "StateCity": [
+      {
+        "state": "Englands",
+        "cities": ["London ", "Manchester "]
+      },
+      {
+        "state": "Scotland",
+        "cities": ["Edinburgh ", "Glasgow "]
+      },
+      {
+        "state": "Wales",
+        "cities": ["Cardiff ", "Swansea "]
+      }
+    ]
+  }
+]

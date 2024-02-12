@@ -1,0 +1,70 @@
+{
+  "budgetRanges": [
+    {
+      "range": "0-1L",
+      "description": "Range up to 1 Lakh, ideal for minor expenses.",
+      "subcategories": [
+        {
+          "subRange": "10K-30K",
+          "description": "Minor expenses and small purchases."
+        },
+        {
+          "subRange": "31K-50K",
+          "description": "Mid-range expenses, like electronics."
+        },
+        {
+          "subRange": "51K-80K",
+          "description": "Higher expenses, such as home appliances."
+        },
+        {
+          "subRange": "81K-1LAKH",
+          "description": "Top end of minor expenses, like budget travels."
+        }
+      ]
+    },
+    {
+      "range": "1L-10L",
+      "description": "From 1 to 10 Lakhs, suitable for moderate expenses.",
+      "subcategories": [
+        {
+          "subRange": "100K-300K",
+          "description": "Lower end of moderate expenses."
+        },
+        {
+          "subRange": "300K-500K",
+          "description": "Mid-range, for small business costs."
+        },
+        {
+          "subRange": "500K-800K",
+          "description": "Higher expenses, like car purchases."
+        },
+        {
+          "subRange": "800K-1 Million",
+          "description": "Top end, for luxury items or investments."
+        }
+      ]
+    },
+    {
+      "range": "10L-1C",
+      "description": "Between 10 Lakhs and 1 Crore, for significant investments.",
+      "subcategories": [
+        {
+          "subRange": "1 Million-3 Million",
+          "description": "Starting range for significant investments."
+        },
+        {
+          "subRange": "3 Million-5 Million",
+          "description": "Mid-range, suitable for real estate."
+        },
+        {
+          "subRange": "5 Million-8 Million",
+          "description": "Higher investment range, like luxury properties."
+        },
+        {
+          "subRange": "8 Million-1 Crore",
+          "description": "Top end, often used for commercial investments."
+        }
+      ]
+    }
+  ]
+}

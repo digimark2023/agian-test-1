@@ -1,0 +1,16 @@
+/* custom-styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .common-section {
+    @apply flex flex-col mt-5 mb-4 items-start space-y-3 p-5 rounded-lg shadow-lg;
+  }
+  .common-title {
+    @apply font-bold text-2xl mb-2;
+  }
+  .common-text {
+    @apply font-semibold text-md text-left mb-2;
+  }
+}

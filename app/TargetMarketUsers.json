@@ -1,0 +1,193 @@
+{
+  "MarketUsers": [
+    {
+      "MainUserCategory": "1. Demographic-Based Audience",
+      "description": "Range up to 1 Lakh, ideal for minor expenses.",
+      "UserSubCategories": [
+        {
+          "subcategoryName": "*Young Adults",
+          "Subcategories": [
+            "College Students",
+            "Young Professionals",
+			"Part-time Employees",
+			"Full-time employess"
+          ]
+        },
+        {
+          "subcategoryName": "*Families",
+          "Subcategories": [
+            "New Parents (baby products, parenting advice services)",
+            "Large Families (bulk buying discounts, family-sized products)"
+          ]
+        },
+        {
+          "subcategoryName": "*Senior Citizens",
+          "Subcategories": [
+            "Health and Wellness Products",
+            "Leisure and Travel Services for Retirees"
+          ]
+        },
+        {
+          "subcategoryName": "*Children",
+          "Subcategories": [
+            "Educational Toys and Games",
+            "Children's Apparel and Accessories"
+          ]
+        }
+      ]
+    },
+    {
+      "MainUserCategory": "2. Location-Based Audience",
+      "description": "Range up to 1 Lakh, ideal for minor expenses.",
+      "UserSubCategories": [
+        {
+          "subcategoryName": "*Urban Residents",
+          "Subcategories": [
+            "City-specific Delivery Services",
+            "Urban Lifestyle Products (compact furniture, smart gadgets)"
+          ]
+        },
+        {
+          "subcategoryName": "*Rural Communities",
+          "Subcategories": [
+            "Agricultural Tools and Services",
+            "Rural Connectivity Solutions"
+          ]
+        },
+        {
+          "subcategoryName": "*Regional Markets",
+          "Subcategories": [
+            "Products tailored to local culture and needs",
+            "Regional Handicrafts and Art"
+          ]
+        },
+        {
+          "subcategoryName": "*International Markets",
+          "Subcategories": [
+            "Export-oriented Goods (textiles, handicrafts)",
+            "Cross-cultural Consulting Services"
+          ]
+        }
+      ]
+    },
+    {
+      "MainUserCategory": "3. Lifestyle or Interest-Based Audience",
+      "description": "Range up to 1 Lakh, ideal for minor expenses.",
+      "UserSubCategories": [
+        {
+          "subcategoryName": "*Fitness Enthusiasts",
+          "Subcategories": ["Home Gym Equipment", "Health and Nutrition Apps"]
+        },
+        {
+          "subcategoryName": "*Tech-Savvy Consumers",
+          "Subcategories": [
+            "Latest Electronics and Gadgets",
+            "Tech Support and Consulting Services"
+          ]
+        },
+        {
+          "subcategoryName": "*Environmentally Conscious Consumers",
+          "Subcategories": [
+            "Eco-friendly Products (reusable items, sustainable materials)",
+            "Green Energy Solutions"
+          ]
+        },
+        {
+          "subcategoryName": "*Hobbyists",
+          "Subcategories": [
+            "DIY Crafting Kits",
+            "Specialized Equipment for Hobbies (photography, gardening)"
+          ]
+        }
+      ]
+    },
+    {
+      "MainUserCategory": "4. Industry-Specific Audience",
+      "description": "Range up to 1 Lakh, ideal for minor expenses.",
+      "UserSubCategories": [
+        {
+          "subcategoryName": "*Healthcare Sector",
+          "Subcategories": [
+            "Medical Supplies and Equipment",
+            "Health IT Solutions"
+          ]
+        },
+        {
+          "subcategoryName": "*Educational Institutions",
+          "Subcategories": [
+            "E-learning Platforms",
+            "School and College Supplies"
+          ]
+        },
+        {
+          "subcategoryName": "*Corporate Sector",
+          "Subcategories": [
+            "B2B SaaS Products",
+            "Corporate Training and Workshops"
+          ]
+        },
+        {
+          "subcategoryName": "*Hospitality Industry",
+          "Subcategories": [
+            "Catering and Event Planning Services",
+            "Hotel and Restaurant Supplies"
+          ]
+        }
+      ]
+    },
+    {
+      "MainUserCategory": "5. Income or Economic Status-Based Audience",
+      "description": "Range up to 1 Lakh, ideal for minor expenses.",
+      "UserSubCategories": [
+        {
+          "subcategoryName": "*Luxury Market ",
+          "Subcategories": [
+            "High-end Fashion and Jewelry",
+            "Luxury Travel and Concierge Services"
+          ]
+        },
+        {
+          "subcategoryName": "*Budget-Conscious Consumers",
+          "Subcategories": [
+            "Affordable Consumer Goods",
+            "Discount and Bulk Purchase Stores"
+          ]
+        },
+        {
+          "subcategoryName": "[Middle-Income Group",
+          "Subcategories": [
+            "Quality Home Appliances",
+            "Family Cars and Vehicles"
+          ]
+        }
+      ]
+    },
+    {
+      "MainUserCategory": "6. Special Needs or Niche Audience",
+      "description": "Range up to 1 Lakh, ideal for minor expenses.",
+      "UserSubCategories": [
+        {
+          "subcategoryName": "*People with Disabilities",
+          "Subcategories": [
+            "Accessible Technology and Tools",
+            "Specialized Transportation Services"
+          ]
+        },
+        {
+          "subcategoryName": "*Cultural or Ethnic Groups",
+          "Subcategories": [
+            "Ethnic Foods and Beverages",
+            "Cultural Apparel and Accessories"
+          ]
+        },
+        {
+          "subcategoryName": "*Special Interest Groups",
+          "Subcategories": [
+            "Pet Owners (pet care products, services)",
+            "Vegan and Plant-based Consumers (vegan food products, lifestyle items)"
+          ]
+        }
+      ]
+    }
+  ]
+}

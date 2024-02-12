@@ -1,0 +1,118 @@
+{
+  "jobOptions": [
+    {
+      "industryCategory": "Technology and IT",
+      "description": "Jobs and roles in the Technology and IT sector.",
+      "jobs": [
+        {
+          "job": "Cloud Solutions Architect",
+          "description": "Cloud Solutions Architect"
+        },
+        {
+          "job": "Mobile App Developer",
+          "description": "Mobile App Developer"
+        },
+        {
+          "job": "User Experience (UX) Designer",
+          "description": "User Experience (UX) Designer"
+        },
+        { "job": "Data Scientist", "description": "Data Scientist" },
+        {
+          "job": "Information Security Analyst",
+          "description": "Information Security Analyst"
+        },
+        { "job": "DevOps Engineer", "description": "DevOps Engineer" },
+        { "job": "AI/ML Engineer", "description": "AI/ML Engineer" },
+        {
+          "job": "IoT Solutions Specialist",
+          "description": "IoT Solutions Specialist"
+        },
+        {
+          "job": "Blockchain Developer",
+          "description": "Blockchain Developer"
+        },
+        { "job": "SEO/SEM Specialist", "description": "SEO/SEM Specialist" }
+      ]
+    },
+    {
+      "industryCategory": "Healthcare and Medical",
+      "description": "Jobs and roles in the Healthcare and Medical sector.",
+      "jobs": [
+        {
+          "job": "Clinical Research Coordinator",
+          "description": "Clinical Research Coordinator"
+        },
+        {
+          "job": "Public Health Administrator",
+          "description": "Public Health Administrator"
+        },
+        {
+          "job": "Medical Imaging Specialist",
+          "description": "Medical Imaging Specialist"
+        },
+        {
+          "job": "Telemedicine Coordinator",
+          "description": "Telemedicine Coordinator"
+        },
+        { "job": "Genetic Counselor", "description": "Genetic Counselor" },
+        {
+          "job": "Occupational Therapist",
+          "description": "Occupational Therapist"
+        },
+        {
+          "job": "Speech-Language Pathologist",
+          "description": "Speech-Language Pathologist"
+        },
+        { "job": "Biomedical Engineer", "description": "Biomedical Engineer" },
+        {
+          "job": "Healthcare Data Analyst",
+          "description": "Healthcare Data Analyst"
+        },
+        {
+          "job": "Alternative Medicine Practitioner",
+          "description": "Alternative Medicine Practitioner"
+        }
+      ]
+    },
+    {
+      "industryCategory": "Finance and Business",
+      "description": "Jobs and roles in the Finance and Business sector.",
+      "jobs": [
+        {
+          "job": "Financial Technology Developer (FinTech)",
+          "description": "Financial Technology Developer (FinTech)"
+        },
+        {
+          "job": "Investment Banking Analyst",
+          "description": "Investment Banking Analyst"
+        },
+        {
+          "job": "Corporate Strategy Advisor",
+          "description": "Corporate Strategy Advisor"
+        },
+        {
+          "job": "Risk Management Consultant",
+          "description": "Risk Management Consultant"
+        },
+        {
+          "job": "Private Equity Associate",
+          "description": "Private Equity Associate"
+        },
+        { "job": "Tax Advisor", "description": "Tax Advisor" },
+        {
+          "job": "ESG (Environmental, Social, and Governance) Analyst",
+          "description": "ESG Analyst"
+        },
+        {
+          "job": "Cryptocurrency Analyst",
+          "description": "Cryptocurrency Analyst"
+        },
+        {
+          "job": "Business Intelligence Analyst",
+          "description": "Business Intelligence Analyst"
+        },
+        { "job": "Compliance Officer", "description": "Compliance Officer" }
+      ]
+    }
+  ]
+}
